@@ -4,7 +4,7 @@ import Button from "../components/Button";
 function Navbar() {
   return (
     <nav>
-      <div className="logo"></div>
+      <div className="logo">DJ</div>
       <div className="nav-buttons">
         <Button value={"About"} type={"navbar-button"} />
         <Button value={"Skills"} type={"navbar-button"} />
