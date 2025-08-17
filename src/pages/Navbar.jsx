@@ -6,10 +6,10 @@ function Navbar() {
     <nav>
       <div className="logo">DJ</div>
       <div className="nav-buttons">
-        <Button value={"About"} type={"navbar-button"} />
-        <Button value={"Skills"} type={"navbar-button"} />
-        <Button value={"Projects"} type={"navbar-button"} />
-        <Button value={"Contact"} type={"navbar-button"} />
+        <Button value={"ABOUT"} type={"navbar-button"} />
+        <Button value={"SKILLS"} type={"navbar-button"} />
+        <Button value={"PROJECTS"} type={"navbar-button"} />
+        <Button value={"CONTACT"} type={"navbar-button"} />
       </div>
     </nav>
   );
