@@ -1,0 +1,41 @@
+.skills-section {
+  background-color: black;
+  display: flex;
+  width: 100%;
+}
+
+.skills-header {
+  color: #E9E8E8;
+  margin-right: 24px;
+  margin-right: 24px;
+  text-align: right;
+}
+
+.skills-paragraph {
+  color: #E9E8E8;
+  margin-right: 24px;
+  text-align: right;
+  width: 440px;
+}
+
+.skills-text-container {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  margin-bottom: 40px;
+}
+
+.skills-img-container {
+  width: 50%;
+  /* display: flex; */
+  /* justify-content: left; */
+}
+
+.skills-img {
+  height: 460px;
+  /* width: 520px; */
+  object-fit: contain;
+  margin-left: 24px;
+  filter: grayscale(100%);
+}

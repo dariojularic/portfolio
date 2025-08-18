@@ -1,0 +1,12 @@
+.projects-section {
+  width: 100%;
+}
+
+.projects-header-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.projects-description {
+  width: 440px;
+}
