@@ -1,6 +1,11 @@
 .projects-section {
   width: 100%;
+  background-color: black;
 }
+
+/* .projects-container {
+
+} */
 
 .projects-header-container {
   display: flex;
@@ -9,4 +14,9 @@
 
 .projects-description {
   width: 440px;
+  color: #E9E8E8;
+}
+
+.projects-header {
+  color: #E9E8E8;
 }

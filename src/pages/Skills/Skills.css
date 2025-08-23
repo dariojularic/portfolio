@@ -1,7 +1,14 @@
 .skills-section {
   background-color: black;
-  display: flex;
   width: 100%;
+  padding: 0 80px;
+  box-sizing: border-box;
+
+}
+
+.skills-container {
+  display: flex;
+  border-bottom: 2px solid red;
 }
 
 .skills-header {

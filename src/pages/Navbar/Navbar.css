@@ -1,10 +1,17 @@
 nav {
-  display: flex;
-  justify-content: space-between;
   /* background-color: red; */
   width: 100%;
+  padding: 0 40px;
   height: 80px;
+  box-sizing: border-box;
+  margin-bottom: 80px;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
   border-bottom: 1px solid #625E5E;
+  height: 100%;
 }
 
 .nav-buttons {
